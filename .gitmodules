@@ -1,0 +1,3 @@
+[submodule "torch_cif"]
+	path = torch_cif
+	url = https://github.com/George0828Zhang/torch_cif
